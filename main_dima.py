@@ -1,4 +1,4 @@
-from pygame import *
+ from pygame import *
 from random import randint
 import sys
 from pygame.locals import *
